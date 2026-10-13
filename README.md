@@ -2,6 +2,12 @@
 
 An end-to-end Data Science project using the Kaggle Store Sales competition.
 
+## 🚀 Live Demo
+
+**[Open the Retail Demand Forecasting Dashboard](https://retail-demand-forecasting-liveusa.streamlit.app/)**
+
+Explore sales forecasts, model evaluation metrics, product-family performance, feature importance, and Kaggle predictions.
+
 ## Objective
 Forecast store and product-family sales using historical demand, calendar features,
 promotions, store attributes, oil prices, and holiday information.
