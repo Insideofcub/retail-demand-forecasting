@@ -1,0 +1,15 @@
+# Keep raw Kaggle data out of GitHub
+data/raw/*
+!data/raw/.gitkeep
+
+# Exclude large processed data
+data/processed/*
+!data/processed/.gitkeep
+
+# Python and environment files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
